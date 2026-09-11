@@ -2,6 +2,9 @@
 
 A clean, responsive, and interactive FAQ (Frequently Asked Questions) accordion component built with HTML, CSS, and JavaScript.
 
+## 🔗 Live Demo
+https://ishadeveloper-pro.github.io/Animated-FAQ-s-Section/
+
 ## ✨ Features
 * **Interactive Accordion UI:** Smooth toggle behavior to expand and collapse answers.
 * **Fully Responsive:** Adapts seamlessly across mobile, tablet, and desktop screens (breakpoints from 1024px to 320px).
